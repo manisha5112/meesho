@@ -1,1 +1,2 @@
-# meesho
+# Meesho-Clone
+HTML, CSS, JavaScript
